@@ -12,17 +12,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/RED.png"),
-                "hover": new image("../Assets/Spritesheets/RED.png"),
-                "selected": new image("../Assets/Spritesheets/RED.png")
+                "idle": new image("Assets/Spritesheets/RED.png"),
+                "hover": new image("Assets/Spritesheets/RED.png"),
+                "selected": new image("Assets/Spritesheets/RED.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/RED.png"),
-                "hover": new image("../Assets/Spritesheets/RED.png"),
-                "selected": new image("../Assets/Spritesheets/RED.png")
+                "idle": new image("Assets/Spritesheets/RED.png"),
+                "hover": new image("Assets/Spritesheets/RED.png"),
+                "selected": new image("Assets/Spritesheets/RED.png")
             
             }
             
@@ -34,17 +34,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/ORANGE.png"),
-                "hover": new image("../Assets/Spritesheets/ORANGE.png"),
-                "selected": new image("../Assets/Spritesheets/ORANGE.png")
+                "idle": new image("Assets/Spritesheets/ORANGE.png"),
+                "hover": new image("Assets/Spritesheets/ORANGE.png"),
+                "selected": new image("Assets/Spritesheets/ORANGE.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/ORANGE.png"),
-                "hover": new image("../Assets/Spritesheets/ORANGE.png"),
-                "selected": new image("../Assets/Spritesheets/ORANGE.png")
+                "idle": new image("Assets/Spritesheets/ORANGE.png"),
+                "hover": new image("Assets/Spritesheets/ORANGE.png"),
+                "selected": new image("Assets/Spritesheets/ORANGE.png")
             
             }
             
@@ -56,17 +56,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/YELLOW.png"),
-                "hover": new image("../Assets/Spritesheets/YELLOW.png"),
-                "selected": new image("../Assets/Spritesheets/YELLOW.png")
+                "idle": new image("Assets/Spritesheets/YELLOW.png"),
+                "hover": new image("Assets/Spritesheets/YELLOW.png"),
+                "selected": new image("Assets/Spritesheets/YELLOW.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/YELLOW.png"),
-                "hover": new image("../Assets/Spritesheets/YELLOW.png"),
-                "selected": new image("../Assets/Spritesheets/YELLOW.png")
+                "idle": new image("Assets/Spritesheets/YELLOW.png"),
+                "hover": new image("Assets/Spritesheets/YELLOW.png"),
+                "selected": new image("Assets/Spritesheets/YELLOW.png")
             
             }
             
@@ -78,17 +78,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/GREEN.png"),
-                "hover": new image("../Assets/Spritesheets/GREEN.png"),
-                "selected": new image("../Assets/Spritesheets/GREEN.png")
+                "idle": new image("Assets/Spritesheets/GREEN.png"),
+                "hover": new image("Assets/Spritesheets/GREEN.png"),
+                "selected": new image("Assets/Spritesheets/GREEN.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/GREEN.png"),
-                "hover": new image("../Assets/Spritesheets/GREEN.png"),
-                "selected": new image("../Assets/Spritesheets/GREEN.png")
+                "idle": new image("Assets/Spritesheets/GREEN.png"),
+                "hover": new image("Assets/Spritesheets/GREEN.png"),
+                "selected": new image("Assets/Spritesheets/GREEN.png")
             
             }
             
@@ -100,17 +100,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/BLUE.png"),
-                "hover": new image("../Assets/Spritesheets/BLUE.png"),
-                "selected": new image("../Assets/Spritesheets/BLUE.png")
+                "idle": new image("Assets/Spritesheets/BLUE.png"),
+                "hover": new image("Assets/Spritesheets/BLUE.png"),
+                "selected": new image("Assets/Spritesheets/BLUE.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/BLUE.png"),
-                "hover": new image("../Assets/Spritesheets/BLUE.png"),
-                "selected": new image("../Assets/Spritesheets/BLUE.png")
+                "idle": new image("Assets/Spritesheets/BLUE.png"),
+                "hover": new image("Assets/Spritesheets/BLUE.png"),
+                "selected": new image("Assets/Spritesheets/BLUE.png")
             
             }
             
@@ -122,17 +122,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/PURPLE.png"),
-                "hover": new image("../Assets/Spritesheets/PURPLE.png"),
-                "selected": new image("../Assets/Spritesheets/PURPLE.png")
+                "idle": new image("Assets/Spritesheets/PURPLE.png"),
+                "hover": new image("Assets/Spritesheets/PURPLE.png"),
+                "selected": new image("Assets/Spritesheets/PURPLE.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/PURPLE.png"),
-                "hover": new image("../Assets/Spritesheets/PURPLE.png"),
-                "selected": new image("../Assets/Spritesheets/PURPLE.png")
+                "idle": new image("Assets/Spritesheets/PURPLE.png"),
+                "hover": new image("Assets/Spritesheets/PURPLE.png"),
+                "selected": new image("Assets/Spritesheets/PURPLE.png")
                 
             }
             
@@ -144,17 +144,17 @@ export const spriteList = {
             
             "normal": {
                 
-                "idle": new image("../Assets/Spritesheets/WHITE.png"),
-                "hover": new image("../Assets/Spritesheets/WHITE.png"),
-                "selected": new image("../Assets/Spritesheets/WHITE.png")
+                "idle": new image("Assets/Spritesheets/WHITE.png"),
+                "hover": new image("Assets/Spritesheets/WHITE.png"),
+                "selected": new image("Assets/Spritesheets/WHITE.png")
             
             },
             
             "power": {
                 
-                "idle": new image("../Assets/Spritesheets/WHITE.png"),
-                "hover": new image("../Assets/Spritesheets/WHITE.png"),
-                "selected": new image("../Assets/Spritesheets/WHITE.png")
+                "idle": new image("Assets/Spritesheets/WHITE.png"),
+                "hover": new image("Assets/Spritesheets/WHITE.png"),
+                "selected": new image("Assets/Spritesheets/WHITE.png")
             
             }
             
