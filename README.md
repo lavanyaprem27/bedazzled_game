@@ -1,4 +1,4 @@
 # Bedazzled - Bejeweled 2 Recreation
-This project is a simple recreation of the puzzle game Bejeweled 2 by PopCap games. The game logic and graphics is mostly made using Javascript and the HTML5 Canvas API, while the game interface uses HTML and CSS. This project was originally made for my AP Computer Science Principles Exam Performance Task and is currently unfinished. A dedicated home/menu screen, special gems, spritesheet animations, hints, and audio are features I hope to add in the future!
+This project is a simple recreation of the Endless Mode of the PopCap Game's Bejeweled 2. The game logic and graphics is mostly made using Javascript and the HTML5 Canvas API, while the game interface uses HTML and CSS. This project was originally made for my AP Computer Science Principles Exam Performance Task and is currently unfinished. A dedicated home/menu screen, special gems, spritesheet animations, hints, and audio are features I hope to add in the future!
 
 Test it out here: https://lavanyaprem27.github.io/bedazzled_game/
