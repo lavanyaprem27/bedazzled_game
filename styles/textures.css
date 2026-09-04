@@ -1,0 +1,73 @@
+/*CSS FILE FOR HANDLING STYLING AND COLORING OF HTML ELEMENTS*/
+
+#board{
+    
+    background-color:#444F54;
+    
+}
+
+#interface{
+    
+    background-color: #55828B;
+    
+}
+
+#display{
+    
+    background-color: #55828B;
+    
+    border-radius: 7px;
+    
+}
+
+#canvas{
+    
+    border-radius: 3px;
+    
+}
+
+#progress{
+    
+    border-radius: 3px;
+    overflow: hidden;
+    
+}
+
+#completed{
+    
+    background-color:#87BBA2;
+    
+}
+
+#remaining{
+    
+    background-color:#C9E4CA;
+    
+}
+
+.container{
+    
+    background-color:#C9E4CA;
+    
+    border-radius: 5px;
+    
+}
+
+#scores > p,  #buttons > button{
+    
+    background-color:#87BBA2;
+    
+    border: solid 3px #87BBA2;
+    border-radius: 5px;
+    
+    color: white;
+    font-family: "Tahoma";
+}
+
+#logo{
+    
+    color: white;
+    font-family: "Tahoma";
+    font-weight: bold;
+    
+}
